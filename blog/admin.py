@@ -7,3 +7,4 @@ admin.site.register(Post)
 
 
 #prueba para git 
+#mas ediciones
